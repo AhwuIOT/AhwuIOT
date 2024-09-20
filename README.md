@@ -1,11 +1,29 @@
-<h1 align="center">Hi 👋, I'm Ahwu</h1>
-<h3 align="center">A research assistant who is working hard on AI Application.</h3>
+# 你好，我是 Ahwu 👋
 
-- 🌱 I’m currently learning **Flutter & Python**
+## 關於我
+🚀 熱衷於軟體開發的工程師</br>
+🌱 目前正在學習人工智能和機器學習和Flutter</br>
+💡 喜歡將創意轉化為代碼</br>
+🎯 2024 目標：為開源專案做出更多貢獻</br>
 
-- 📝 I regularly write articles on [https://ahwuiot.netlify.app](https://ahwuiot.netlify.app)
+## 技能
+### 程式語言
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
-- ⚡ Fun fact **I used to be a crew member, and now I'm a code engineer**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="20" height="20"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="20" height="20"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="20" height="20"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="20" height="20"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="20" height="20"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="20" height="20"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="20" height="20"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="20" height="20"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="20" height="20"/> </a> </p>
+### 框架和工具
+![Static Badge](https://img.shields.io/badge/Flutter-%2302569B?logo=Flutter)
+
+
+## 我的專案
+### [專案名稱 1](專案連結)
+簡短描述專案 1 的主要功能和特點。
+
+### [專案名稱 2](專案連結)
+簡短描述專案 2 的主要功能和特點。
+
+## GitHub 統計
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahwuiot&show_icons=true&theme=dracula)
+
+## 最常用的語言
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahwuiot&layout=compact&theme=dracula)
