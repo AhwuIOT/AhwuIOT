@@ -15,13 +15,6 @@
 ![Static Badge](https://img.shields.io/badge/Flutter-%2302569B?logo=Flutter)
 
 
-## 我的專案
-### [專案名稱 1](專案連結)
-簡短描述專案 1 的主要功能和特點。
-
-### [專案名稱 2](專案連結)
-簡短描述專案 2 的主要功能和特點。
-
 ## GitHub 統計
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahwuiot&show_icons=true&theme=dracula)
 
